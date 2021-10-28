@@ -46,15 +46,15 @@ As students will often be asked to share and discuss their work, and work on ass
 ## Tentative Schedule
 
 
-| Date | Topic                               |  In-Class Code  | Assignment/Quiz | Due Date/Quiz Date |
-| :--- |:---                                 | :---:           | :---:           | :---:              |
-| 1/24 |   Stats and other tidbits           |                 |                 |                    |
-| 1/31 |   Intro to Linear Regression        |                 |                 |                    |
-| 2/7  |   Model Assumptions & Assessment    |                 |                 |                    |
-| 2/14 |   Feature Engineering & Importance  |                 |                 |                    |
-| 2/21?|   Logistic Regression               |                 |                 |                    |
-| 2/28 |   Multiclass Classification         |                 |                 |                    |
-| 3/7  |   Regularization and Bias-Variance  |                 |                 |                    |
+| Date | Topic                                  |  In-Class Code  | Assignment/Quiz | Due Date/Quiz Date |
+| :--- |:---                                    | :---:           | :---:           | :---:              |
+| 1/24 |   Stats and other tidbits              |                 |                 |                    |
+| 1/31 |   Intro to Linear Regression           |                 |                 |                    |
+| 2/7  |   Model Assumptions & Assessment       |                 |                 |                    |
+| 2/14 |   Feature Engineering & Importance     |                 |                 |                    |
+| 2/21 |   No Class                             |                 |                 |                    |
+| 2/28 |   Logistic Regression & Classification |                 |                 |                    |
+| 3/7  |   Regularization and Bias-Variance     |                 |                 |                    |
  
  ### Important USF Dates
  
@@ -64,10 +64,11 @@ As students will often be asked to share and discuss their work, and work on ass
  
  ### Important Class Dates
  
- - Monday, January 24th: First day of class
+ - Monday, January 24th: First lecture
  - Monday, February 21st: President's Day (no class)
  - Tuesday, February 22nd: Groups for Final Assignment due
- - Monday, March 7th: Last day of class
+ - Monday, March 7th: Last lecture
+ - Monday, March 11th: Final Assignment Due
 
  
  
