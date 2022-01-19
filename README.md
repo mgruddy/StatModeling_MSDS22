@@ -7,9 +7,9 @@ The repository associated with MSDS-598 at University of San Francisco in Spring
 
 **Class Time**: M, 6:30pm - 9:30pm Pacific
 
-**Location:** TBD
+**Location:** Harney Science Center 136
 
-**Office Hours**: TBD
+**Office Hours**: 12pm - 1pm on Wednesdays, virtual  (Zoom link available on Canvas)
 
 **Book**: No official book, but [An Introduction to Statistical Learning](https://www.statlearning.com) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani is very good and can be downloaded as a pdf for free.
 
@@ -34,8 +34,8 @@ By the end of this course, you will be able to
 The course will be graded based on the following components:
 
 - **Participation** (20%): Students are expected to attend each class lecture unless they have a valid university-approved excuse. Similarly students are required to stay home if they have flu-like symptoms, or any other symptoms associated with COVID-19. Students are expected to participate in any in-class work/activities and to follow the Code of Conduct (below). All completion-graded work also falls in this category.
-- **Assignments** (25%): Throughout the course I will assign homework. Homework is expected to be completed *individually*. All outside discussion/help should be disclosed upon turning in the assignment; otherwise this is considered cheating. Most homeworks will involve submitting a Jupyter notebook that is **neatly** and **appropriately** formatted. Late penalties are 10%/20%/50% for homework turned in less than one day/two days/one week late.
-- **Quizzes** (25%): Quizzes will be conducted periodically via Canvas. These will be timed quizzes without access to outside resources (**not** open book) during scheduled class time.
+- **Assignments** (30%): Throughout the course I will assign homework. Homework is expected to be completed *individually*. All outside discussion/help should be disclosed upon turning in the assignment; otherwise this is considered cheating. Most homeworks will involve submitting a Jupyter notebook that is **neatly** and **appropriately** formatted. Late penalties are 10%/20%/50% for homework turned in less than one day/two days/one week late.
+- **Quizzes** (20%): Quizzes will be conducted periodically via Canvas. These will be timed quizzes without access to outside resources (**not** open book) during scheduled class time.
 - **Final Assignment** (30%): The final assignment will be similar to a long-form homework assignment that incorporates all of the concepts discussed in the course with a pre-determined real-world dataset. This may be completed in groups no larger than 3, but your group must be communicated to me before **February 22nd**. The notebook submitted must follow strict formatting (guidelines to come) and you may be asked to also submit additional materials (such as an essay or presentation).
 
 ### Code of Conduct
@@ -48,7 +48,7 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Date | Topic                                  |  In-Class Code  | Assignment/Quiz | Due Date/Quiz Date |
 | :--- |:---                                    | :---:           | :---:           | :---:              |
-| 1/24 |   Stats and other tidbits              |                 |                 |                    |
+| 1/24 |   Stats and other tidbits              |                 |     Quiz 1      |        1/31        |
 | 1/31 |   Intro to Linear Regression           |                 |                 |                    |
 | 2/7  |   Model Assumptions & Assessment       |                 |                 |                    |
 | 2/14 |   Feature Engineering & Importance     |                 |                 |                    |
@@ -65,10 +65,10 @@ As students will often be asked to share and discuss their work, and work on ass
  ### Important Class Dates
  
  - Monday, January 24th: First lecture
+ - Friday, February 19th: Groups for Final Assignment due
  - Monday, February 21st: President's Day (no class)
- - Tuesday, February 22nd: Groups for Final Assignment due
  - Monday, March 7th: Last lecture
- - Monday, March 11th: Final Assignment Due
+ - Thursday, March 10th: Final Assignment Due
 
  
  
