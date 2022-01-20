@@ -13,7 +13,7 @@ The repository associated with MSDS-598 at University of San Francisco in Spring
 
 **Book**: No official book, but [An Introduction to Statistical Learning](https://www.statlearning.com) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani is very good and can be downloaded as a pdf for free.
 
-**Syllabus**: TBD
+**Syllabus**: Can be found [here](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Spring-2022-MSDS-598-01-Modeling-I.pdf)
 
 **Course Requirements**: Students must have access to a functioning computer to complete this course. We will use Python and a Jupyter notebook environment extensively throughout this course. I suggest using a Python package manager like Anaconda (available [here](https://www.anaconda.com/products/individual), scroll down for different Operating Systems). Google CoLab is also an interesting option for a notebook environment.
 
