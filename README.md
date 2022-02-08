@@ -49,11 +49,11 @@ As students will often be asked to share and discuss their work, and work on ass
 | Date | Topic                                  |  Slides                |  Notebooks      | Labs            | Assignment/Quiz | Due Date/Quiz Date |
 | :--- |:---                                    | :---:                  | :---:           | :---:           | :---:           | :---:              |
 | 1/24 |   EDA and Probability                  | [Intro](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Slides/Introduction.pdf), [EDA](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Slides/EDA%20Review.pdf), [Probability](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Slides/ProbStats1.pdf)|[EDA](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Notebooks/EDA.ipynb), [Probability](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Notebooks/ProbStats1.ipynb) |[Lab1](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Assignments/Lab1.pdf)|Quiz1|1/31|
-| 1/31 | Statistics and Simple Linear Regression|                        |                 |                 |                 |                    |
-| 2/7  | Multivariate Linear Regression and Modeling Concepts|                        |                 |                 |                 |                    |
-| 2/14 |   Feature Engineering & Importance     |                        |                 |                 |                 |                    |
+| 1/31 | Statistics and Simple Linear Regression|                        |                 |                 |HW1|2/7|
+| 2/7  | Multivariate Linear Regression         |                        |                 |                 |Quiz 2|2/14|
+| 2/14 | Model Interpretation and Troubleshooting |                      |                 |                 |HW2|2/28|
 | 2/21 |   No Class                             |                        |                 |                 |                 |                    |
-| 2/28 |   Logistic Regression & Classification |                        |                 |                 |                 |                    |
+| 2/28 |   Logistic Regression & Classification |                        |                 |                 |HW3, Quiz3|3/7|
 | 3/7  |   Regularization and Bias-Variance     |                        |                 |                 |                 |                    |
  
  ### Important USF Dates
