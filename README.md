@@ -53,8 +53,8 @@ As students will often be asked to share and discuss their work, and work on ass
 | 2/7  | Multivariate Linear Regression         |[MLR](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Slides/MoreLinearRegression.pdf)|[MLR](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Notebooks/MoreLinearRegression.ipynb)|[Lab2](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Assignments/Lab2.pdf)|Quiz 2|2/14|
 | 2/14 | Model Interpretation and Troubleshooting |                      |[Modeling](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Notebooks/Modeling.ipynb)|                 |[HW2](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Assignments/Homework2.pdf)|2/28|
 | 2/21 |   No Class                             |                        |                 |                 |                 |                    |
-| 2/28 |   Logistic Regression & Classification |                        |                 |                 |HW3, Quiz3|3/7|
-| 3/7  |   Regularization and Bias-Variance     |                        |                 |                 |                 |                    |
+| 2/28 |   [Logistic Regression & Classification](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Notebooks/Classification.ipynb) |                        |                 |                 |[HW3](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Assignments/Homework3.pdf), Quiz3|3/7|
+| 3/7  |   [Regularization and Bias-Variance](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Notebooks/Regularization.ipynb)     |                        |                 |                 |[Final](https://github.com/mgruddy/StatModeling_MSDS22/blob/main/Assignments/FinalAssn.pdf)|3/10|
  
  ### Important USF Dates
  
